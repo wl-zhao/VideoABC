@@ -3,4 +3,5 @@ Created by [Wenliang Zhao](https://wl-zhao.github.io/), [Yongming Rao](https://r
 
 This repository contains PyTorch implementation for VideoABC: A Real-World Video Dataset for Abductive Visual Reasoning (TIP 2022).
 
+[IEEE Xplore](https://ieeexplore.ieee.org/document/9893026)
 dataset and code will come soon.
