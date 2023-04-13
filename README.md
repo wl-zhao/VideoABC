@@ -6,7 +6,7 @@ This repository contains PyTorch implementation for VideoABC: A Real-World Video
 [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9893026)
 
 ## Dataset
-VideoABC is built from the COIN dataset. Please download the videos from [COIN](https://coin-dataset.github.io/), and place it in the `data` folder.
+VideoABC is built from the COIN dataset. Please download the videos from [COIN](https://coin-dataset.github.io/), and place them in the `data` folder.
 ```
 ├── configs
 ├── data
